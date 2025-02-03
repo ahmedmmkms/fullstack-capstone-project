@@ -6,7 +6,7 @@ import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import DetailsPage from './components/DetailsPage/DetailsPage';
 import SearchPage from './components/SearchPage/SearchPage';
-import ٌRegisterPage from './components/RegisterPage/RegsiterPage';
+import ٌRegisterPage from './components/RegisterPage/RegisterPage';
 import LoginPage from './components/LoginPage/LoginPage';
 
 function App() {
